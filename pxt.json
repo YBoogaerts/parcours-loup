@@ -5,7 +5,7 @@
         "core": "*",
         "radio": "*",
         "microphone": "*",
-        "Parcours": "github:YBoogaerts/parcours#master"
+        "Parcours": "github:yboogaerts/parcours#master"
     },
     "files": [
         "main.blocks",
